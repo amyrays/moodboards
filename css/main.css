@@ -13,21 +13,11 @@ ul{
 	font-weight: bold;
 }
 
-h1, h2, h3{
-	font-family: serif;
-	font-size: 2em;
-	text-align: center;
-}
-
 li{
 	font-family: sans-serif;
 	font-size: 1.25em;
 }
 
-p{
-	max-width: 95%;
-	padding-left: 2.6041667%;
-}
 
 /* Sections---------------------------------------------------------*/
 
@@ -37,7 +27,7 @@ section{
 	border-radius: 10px;
 	box-shadow: 2px 2px 2px #333;
 	color: #E6E6FF;
-	padding: 10%;
+	padding: 1.0416667%;
 	margin-bottom: 10px;
 }
 
